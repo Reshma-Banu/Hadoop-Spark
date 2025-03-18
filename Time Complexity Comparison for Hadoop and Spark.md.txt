@@ -1,7 +1,9 @@
 Time Complexity Comparison for Hadoop and Spark
 
 Problem Statement
-The objective of this project is to determine the minimum and maximum temperatures of cities in European countries by scraping the data using two big data processing frameworks: Hadoop and Spark. The goal is to analyze and compare the efficiency, execution time, and resource utilization of both frameworks when handling large-scale temperature data. By evaluating these implementations, we aim to determine the most optimal framework for temperature-based data processing.
+The objective of this project is to determine the minimum and maximum temperatures of cities in European countries by scraping the data using two big data processing frameworks: Hadoop and Spark. 
+The goal is to analyze and compare the efficiency, execution time, and resource utilization of both frameworks when handling large-scale temperature data. 
+By evaluating these implementations, we aim to determine the most optimal framework for temperature-based data processing.
 
 Execution Time Results
 * Hadoop Execution Time: 1.12 seconds
